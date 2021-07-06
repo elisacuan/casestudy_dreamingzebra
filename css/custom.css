@@ -40,7 +40,7 @@ font-size: 30px;
 line-height: 40px;
 }
 
-.pstyle, dl, db {
+.pstyle, dl, db, li, ul {
   font-family: 'Sen', sans-serif;
   font-size: 17px;
   
@@ -51,5 +51,9 @@ dt {
   font-size: 20px;
   padding-bottom: 30px;
 }
-
-
+ 
+figcaption{
+  font-family: 'Sen', sans-serif;
+  font-size: 15px;
+  
+}
